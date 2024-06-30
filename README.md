@@ -1674,7 +1674,7 @@ export const config = {
 - customization
   - avatars
 
-### SignOutButton Component
+### SignOutLink Component
 
 ```tsx
 "use client";
